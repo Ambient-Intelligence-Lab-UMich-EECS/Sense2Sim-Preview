@@ -1,0 +1,10 @@
+# Credits
+
+3-D models used on this site under a Creative Commons Attribution licence, each with its maker, its source and how it was changed.
+
+- "Smartphone" by Naudaff3D (Sketchfab), https://sketchfab.com/3d-models/smartphone-793ce4333ddb4cb8ab30c6b1da96df81, CC BY 4.0. Modified for the SenseWeaver library: scaled to real size, recentred, compressed, textures resized. Colours changed to the SenseWeaver studio palette. (in `library/P02.txt`)
+
+Also used, with no credit required (public domain, CC0):
+
+- "Neutral right hand, short forearm (MPFB2)", made with MPFB2 from the MakeHuman community's CC0 data (https://static.makehumancommunity.org/mpfb.html), CC0 1.0. (in `library/HUM-hand_right_short.txt`)
+- "Digital Wrist Watch" by Adrian C (Poly Haven), https://polyhaven.com/a/digital_wrist_watch, CC0 1.0. (in `library/PH-digital_wrist_watch.txt`)

@@ -1,0 +1,123 @@
+{
+  "from": {
+    "file": "/tmp/sw-site-QqZOCo/page/index.html",
+    "bytes": 9164900,
+    "sha256": "fca2a66c0562e8d5ff59ecd2f6905a83523101ea1bb7d96d4cecc1faa113e7aa"
+  },
+  "page": {
+    "path": "index.html",
+    "bytes": 1497293,
+    "sha256": "b9b039cd7e88025d00622806ae39d43b795634309c412742ac69af3601508500"
+  },
+  "library": "/nfs/turbo/coe-kesuniot1/senseweaver/library/current",
+  "kb": "/nfs/turbo/coe-kesuniot1/senseweaver/staging/2026-11-18-a61/kit85/kb/kb.json",
+  "files": [
+    {
+      "path": "library/P02.txt",
+      "type": "text/plain",
+      "kind": "library",
+      "id": "P02",
+      "glb": {
+        "bytes": 234388,
+        "sha256": "6f459dea1a2711c218d1271a593c03a1c3272ef3a7e07e6d6d4e70ce0cdae002"
+      },
+      "library": "lod1.glb",
+      "bytes": 312520,
+      "sha256": "e099046c96e8031bd39bbab9700d38102b287e496442ca9dd6e9fd1be384a670"
+    },
+    {
+      "path": "library/HUM-hand_right_short.txt",
+      "type": "text/plain",
+      "kind": "library",
+      "id": "HUM-hand_right_short",
+      "glb": {
+        "bytes": 52628,
+        "sha256": "6241984d598917fbdcf28932c10c1a31b34ffcc250df5d2afeecbd779f18eabb"
+      },
+      "library": "model.glb",
+      "bytes": 70172,
+      "sha256": "6f74bb30cc60b6eea8702cff2163bb77a3dd6ba0950b24e20c57456fa2927aee"
+    },
+    {
+      "path": "library/PH-digital_wrist_watch.txt",
+      "type": "text/plain",
+      "kind": "library",
+      "id": "PH-digital_wrist_watch",
+      "glb": {
+        "bytes": 383680,
+        "sha256": "be185221d731eadd5e694d05540febbc2172a5b557d163cbcba0c2e30f81aecf"
+      },
+      "library": "model.glb",
+      "bytes": 511576,
+      "sha256": "c7a3cf35a96b20f88cd0ea51da48e78f41fb13d057fb4b6551606ead0d22ec7f"
+    },
+    {
+      "path": "media/ruler.jpg",
+      "type": "image/jpeg",
+      "kind": "media",
+      "id": "ruler",
+      "bytes": 1353868,
+      "sha256": "9829f5e1a1eb108a26d9f928701e92f1d167efa48ad963810eab93add44908be"
+    },
+    {
+      "path": "media/draw.jpg",
+      "type": "image/jpeg",
+      "kind": "media",
+      "id": "draw",
+      "bytes": 2572419,
+      "sha256": "c90ab8d0c21f9035ee3ca6b09494e39aa592cdff9384525a2a570717f3ffdff2"
+    },
+    {
+      "path": "media/fly.jpg",
+      "type": "image/jpeg",
+      "kind": "media",
+      "id": "fly",
+      "bytes": 469539,
+      "sha256": "b2ce0624bf5f27a51372de4be27097069d87df8fdf2888d2408e6d2877a79db4"
+    },
+    {
+      "path": "kg/exp-kg.json",
+      "type": "application/json",
+      "kind": "kg",
+      "id": "exp-kg",
+      "kb": true,
+      "bytes": 912607,
+      "sha256": "2d8d74baae908dd5fa303b053ea589d287bf9d8cc2bc6ecd3f12b415cb5ea016"
+    },
+    {
+      "path": "world/llap-bed.glb.js",
+      "type": "text/javascript",
+      "kind": "world",
+      "bytes": 536559,
+      "sha256": "1c330dfe9bb2324e1dac3b53581ce63aad58d7dad62a61ccb0f3c7f902587061"
+    },
+    {
+      "path": "world/llap-car.glb.js",
+      "type": "text/javascript",
+      "kind": "world",
+      "bytes": 1282815,
+      "sha256": "c4e87b44fb7ed4b27913f726d958ef767278f50bc4eba9fa93a3ce674dce1e0d"
+    },
+    {
+      "path": "world/llap-kitchen.glb.js",
+      "type": "text/javascript",
+      "kind": "world",
+      "bytes": 838223,
+      "sha256": "457ff2b0521646a8837c15cf5924d531ec05f458959059587029e44fe1093de5"
+    },
+    {
+      "path": "world/llap-study.glb.js",
+      "type": "text/javascript",
+      "kind": "world",
+      "bytes": 2523279,
+      "sha256": "7e4234b54c498ad6d4a53bf57b2f9614b8b6d1d0510954db73a116542a0459e1"
+    },
+    {
+      "path": "about/assets.jpg",
+      "type": "image/jpeg",
+      "kind": "about",
+      "bytes": 255701,
+      "sha256": "a51c4183387e14b4b30743bf27ce09d141f5416df282c4171cdf4dd71a7e139f"
+    }
+  ]
+}
